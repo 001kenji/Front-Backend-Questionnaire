@@ -1,0 +1,2 @@
+
+I built this project myself, leveraging both backend and frontend skills. Users engage with a sleek questionnaire form on the frontend, where their responses seamlessly travel to the backend. There, I've implemented a secure system to store their data in a bd.sqlite3 database, ensuring both efficiency and accessibility. This project is a testament to my ability to bridge the gap between user interaction and robust data management.
